@@ -23,7 +23,7 @@
 - post problems on [GitHub](https://github.com/workflow4metabolomics/workflow4metabolomics/issues)
 
 ## OpenMS
-- [Tutorial](https://github.com/OpenMS/Tutorials/releases/download/data-and-tools-OpenMSv2.0.0/OpenMS_Usertutorial.pdf) (included in the general OpenMS tuto, see page 39-50)
+- [Tutorial](./OpenMS_Usertutorial_Metabolomics.pdf)
 - Literature
 	- Kenar, 2014, Mol Cell Proteomics
 	- Ranninger, 2016, Anal Chim Acta
