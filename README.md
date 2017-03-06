@@ -1,17 +1,17 @@
 # Ideen Metabolomics
 
-## Sammlung möglicher Tools:
+## Sammlung möglicher Tools
 - Workflow4Metabolomics
 - OpenMS
 
-## mögliche Vorgehensweisen:
-1) WF von OpenMS benutzen
-2) WF von Workflows4Metabolomics benutzen
-3) einen der beiden pimpen, dass er für eure Zwecke taugt
+## mögliche Vorgehensweisen
+1. WF von OpenMS benutzen
+2. WF von Workflows4Metabolomics benutzen
+3. einen der beiden pimpen, dass er für eure Zwecke taugt
 	- Ein Bißchen anpassen müssen wird man sowieso.
-4) sich was eigenes aus 1) und 2) zusammenmixen
+4. sich was eigenes aus 1) und 2) zusammenmixen
 	- Könnte schon etwas aufwendiger werden, weil oft verschiedene Datenformate benutzt werden. So ist das zumindest bei Proteomics Tools.
-5) ganz neue Tools einbauen
+5. ganz neue Tools einbauen
 	- würde LANGE dauern
 	- quasi "custom design"
 	- Paper über Methodik möglich (ohne echte Daten, nur Testdaten)
