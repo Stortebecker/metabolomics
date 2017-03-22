@@ -7,6 +7,8 @@ This is a repository for AG Kammerer Freiburg to inform about and organize metab
 
 [**Tutorials**](./Tutorials/) for OpenMS & W4M
 
+[**Information on spectra databases](./spectra_databases.md)
+
 ## Links
 
 about Github issues:
