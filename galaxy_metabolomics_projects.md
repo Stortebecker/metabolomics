@@ -51,4 +51,4 @@ Three nationwide or europe-wide projects offer and support solutions for metabol
 **Support**:
 - no WFs / tutorials exist
 - Highly interested in giving feedback on specific problems and to adjust their server to your needs
-- post problems **primarily on this page** or, alternatively, on the [PhenoMeNal GitHub page](https://github.com/phnmnl/phenomenal-h2020)
+- post problems [**primarily on this page**](https://github.com/Stortebecker/metabolomics/issues) or, alternatively, on the [PhenoMeNal GitHub page](https://github.com/phnmnl/phenomenal-h2020)
