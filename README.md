@@ -11,6 +11,12 @@ This is a repository for AG Kammerer Freiburg to inform about and organize metab
 
 ## Links
 
+[Metabolomics Society Inc.](http://metabolomicssociety.org/) - Inc.? What is this? The webpage seems to be a good resource for [databases](http://metabolomicssociety.org/resources/metabolomics-databases), [software](http://metabolomicssociety.org/resources/metabolomics-software) and more...
+
+[Metabolomics Society Forum](http://www.metabolomics-forum.com/)
+
+### GitHub
+
 about Github issues:
 - [basic information](https://help.github.com/articles/about-issues/)
 - How to write a good issue: 
