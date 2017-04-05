@@ -6,9 +6,9 @@ This is a repository for AG Kammerer Freiburg to inform about and organize metab
 [**Galaxy Metabolomics Projects**](./galaxy_metabolomics_projects.md) Information about different projects providing solutions and support for metabolomic data analysis integrated in the Galaxy framework.
 
 [**Data Analysis Tutorials**](./Tutorials/) 
-    - on Metabolomics Data Analysis in general ([PheNoMeNal Training](./Tutorials/EMBL-EBItraining_MetabolomicsIntroduction.pdf))
-    - on Workflows ([OpenMS](./Tutorials/OpenMS_Usertutorial_Metabolomics.pdf) & [W4M](./Tutorials/))
-    - on the free Metabolomics data repository [MetaboLights](./Tutorials/EMBL-EBItraining_MetaboLights.pdf)
+- on Metabolomics Data Analysis in general ([PheNoMeNal Training](./Tutorials/EMBL-EBItraining_MetabolomicsIntroduction.pdf))
+- on Workflows ([OpenMS](./Tutorials/OpenMS_Usertutorial_Metabolomics.pdf) & [W4M](./Tutorials/))
+- on the free Metabolomics data repository [MetaboLights](./Tutorials/EMBL-EBItraining_MetaboLights.pdf)
 
 [**Information on spectra databases**](./spectra_databases.md)
 
@@ -19,6 +19,8 @@ This is a repository for AG Kammerer Freiburg to inform about and organize metab
 [Metabolomics Society Forum](http://www.metabolomics-forum.com/)
 
 [PheNoMeNal Training Material](https://www.ebi.ac.uk/training/online/course/phenomenal-accessing-metabolomics-workflows-galaxy)
+
+[Metabolomics Data Analysis Blog](https://littlemsandsailing.wordpress.com/) - seems to be a neat and up-to-date source for information on data analysis problems / solutions (e.g. file conversions or NIST db)
 
 ### GitHub
 
