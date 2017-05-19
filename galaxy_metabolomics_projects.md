@@ -45,7 +45,7 @@ Three nationwide or europe-wide projects offer and support solutions for metabol
 **Current Status**: solutions for different experiment types exist (mainly NMR, but also LC-MS and GC-MS)
 
 **Accessibility**:
-- [public server](public.phenomenal-h2020.eu) (registration required), can also run locally
+- [public server](http://public.phenomenal-h2020.eu) (registration required), can also run locally
 - OMS tools and / or W4M tools and / or your favorite tools can be integrated
 
 **Support**:
